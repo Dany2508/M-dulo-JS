@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: rgb(119, 59, 175);
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Lucid';
+    margin-top: 20;
+}
+
+div{
+    background-color: rgb(194, 139, 245);
+    border-radius: 7px;
+    margin: 5px;
+    border: 1px solid;
+    margin-bottom: 1px;
+}
+
+label{
+    font-family: fantasy;
+    color: black;
+}
+
+input{
+    font-family: 'Franklin Gothic Medium';
+    color: brown;
+    border-radius: 5px;   
+}
+
+p{
+    font-family:  arial narrow ;
+    box-sizing: border-box;
+}
+
+button{
+    background-color: rgb(126, 57, 172);
+    color: rgb(255, 255, 255);
+    font-family: 'Arial Narrow Bold';
+    box-shadow: 5px 1px 7px rgb(114, 11, 114);
+    width: 20%;
+    text-align: center;
+}
